@@ -1,0 +1,8 @@
+{
+  "name": "kafa1500",
+  "version": "1.0",
+  "description": "Kanal arama ve videoları yeni → eski sıralama (Piped + Invidious fallback) - Herkese Açık",
+  "language": "tr",
+  "authors": ["Atlas"],
+  "status": 1
+}
