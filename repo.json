@@ -1,0 +1,8 @@
+{
+  "name": "kafa1500",
+  "description": "CloudStream kafa1500 Hybrid Provider (Piped + Invidious fallback, Herkese Açık)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Aatlas3535/kafa1500/main/providers/kafa1500/manifest.json"
+  ]
+}
